@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahfu\\source\\repos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B122A2-BB43-4B33-A74D-2D65E4AF1964}|AspwithApi\\AspwithApi.csproj|c:\\users\\mahfu\\source\\repos\\api\\aspwithapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B122A2-BB43-4B33-A74D-2D65E4AF1964}|AspwithApi\\AspwithApi.csproj|solutionrelative:aspwithapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B122A2-BB43-4B33-A74D-2D65E4AF1964}|AspwithApi\\AspwithApi.csproj|c:\\users\\mahfu\\source\\repos\\api\\aspwithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4B122A2-BB43-4B33-A74D-2D65E4AF1964}|AspwithApi\\AspwithApi.csproj|solutionrelative:aspwithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05EF6A-D271-43D5-90ED-2336654DE7CB}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\api\\bll\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05EF6A-D271-43D5-90ED-2336654DE7CB}|BLL\\BLL.csproj|solutionrelative:bll\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|c:\\users\\mahfu\\source\\repos\\api\\dll\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|solutionrelative:dll\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B122A2-BB43-4B33-A74D-2D65E4AF1964}|AspwithApi\\AspwithApi.csproj|c:\\users\\mahfu\\source\\repos\\api\\aspwithapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4B122A2-BB43-4B33-A74D-2D65E4AF1964}|AspwithApi\\AspwithApi.csproj|solutionrelative:aspwithapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|c:\\users\\mahfu\\source\\repos\\api\\dll\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|solutionrelative:dll\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|c:\\users\\mahfu\\source\\repos\\api\\dll\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|solutionrelative:dll\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|c:\\users\\mahfu\\source\\repos\\api\\dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006BF3E3-1129-499E-9BED-F8061AC5F003}|DLL\\DLL.csproj|solutionrelative:dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C05EF6A-D271-43D5-90ED-2336654DE7CB}|BLL\\BLL.csproj|c:\\users\\mahfu\\source\\repos\\api\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C05EF6A-D271-43D5-90ED-2336654DE7CB}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\AspwithApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AspwithApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\AspwithApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AspwithApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:35:04.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\BLL\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\BLL\\Service\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAewBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:31:44.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DLL\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DLL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:26:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DLL\\EF\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "DLL\\EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:44:48.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DLL\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DLL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:41:12.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\AspwithApi\\Program.cs",
+              "RelativeDocumentMoniker": "AspwithApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\AspwithApi\\Program.cs",
+              "RelativeToolTip": "AspwithApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:38:37.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\AspwithApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AspwithApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\AspwithApi\\appsettings.json",
+              "RelativeToolTip": "AspwithApi\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T12:34:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\Class1.cs",
+              "RelativeDocumentMoniker": "DLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\DLL\\Class1.cs",
+              "RelativeToolTip": "DLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:07:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mahfu\\source\\repos\\API\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\mahfu\\source\\repos\\API\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:07:27.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
