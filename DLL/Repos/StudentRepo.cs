@@ -19,5 +19,23 @@ namespace DLL.Repos
             return db.Students.ToList();
         }
 
+        public bool Create(Student student)
+        {
+            db.Students.Add(student);
+            return db.SaveChanges() > 0;
+        }
+        public bool Update(int id, Student student)
+        {
+            var f = db.Students.Find(id);
+            f.Name = student.Name;
+            return db.SaveChanges() > 0;
+        }
+        public bool Delete(int id)
+        {
+            db.Departments.Find(id);
+            return db.SaveChanges() > 0;
+        }
+
+
     }
 }

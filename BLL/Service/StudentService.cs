@@ -20,5 +20,19 @@ namespace BLL.Service
             return Repo.Get(); 
         }
 
+        public bool CreateStudent(Student student)
+        {
+            return Repo.Create(student);
+        }
+        public bool UpdateStudent(int id,Student student) 
+            {
+            return Repo.Update(id,student);
+
+            }
+        public bool DeleteStudent(int id)
+        {
+            return Repo.Delete(id);
+        }
+
     }
 }

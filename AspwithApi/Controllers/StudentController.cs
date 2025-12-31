@@ -19,5 +19,30 @@ namespace AspwithApi.Controllers
         {
             return studentService.GetStudents();
         }
+
+        [HttpPost]
+        public IActionResult Create(Student student)
+        {
+            studentService.CreateStudent(student);
+            return Ok("creating");
+        }
+
+        [HttpPut]
+
+        public IActionResult Update(int id, Student student)
+        {
+            studentService.UpdateStudent(id, student);
+            return Ok();
+
+        }
+
+        [HttpDelete]
+
+        public IActionResult Delete(int id)
+        {
+            studentService.DeleteStudent(id);
+            return Ok();
+        }
+
     }
 }
