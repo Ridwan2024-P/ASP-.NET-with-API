@@ -165,4 +165,5 @@ C:\Users\mahfu\source\repos\API\AspwithApi\obj\Debug\net8.0\refint\AspwithApi.dl
 C:\Users\mahfu\source\repos\API\AspwithApi\obj\Debug\net8.0\AspwithApi.pdb
 C:\Users\mahfu\source\repos\API\AspwithApi\obj\Debug\net8.0\AspwithApi.genruntimeconfig.cache
 C:\Users\mahfu\source\repos\API\AspwithApi\obj\Debug\net8.0\ref\AspwithApi.dll
+C:\Users\mahfu\source\repos\API\aspwithapi\obj\Debug\net8.0\AspwithApi.sourcelink.json
 C:\Users\mahfu\source\repos\API\AspwithApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

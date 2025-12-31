@@ -13,6 +13,7 @@ namespace DLL.EF
         public UMSContext(DbContextOptions<UMSContext> options) : base(options) { }
 
         public DbSet<Student> Students { get; set; }
+        public DbSet<Department> Departments { get; set; }
 
 
     }

@@ -13,8 +13,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<StudentRepo>();
+builder.Services.AddScoped<DepartmentRep>();
 builder.Services.AddScoped<StudentService>();
-builder.Services.AddScoped<StudentService>();
+builder.Services.AddScoped<DepartmentService>();
+
 
 
 builder.Services.AddDbContext<UMSContext>(options =>
